@@ -1,0 +1,11 @@
+Agent: Hi, this is Sarah from Acme Roofing — am I speaking with Mark Henderson?
+Caller: This is Mark's wife, Linda. He's not available right now.
+Agent: No problem. I'm calling because we inspected the storm damage on your
+       roof last Tuesday. The estimate's ready — about $4,200 — and I wanted
+       to schedule the repair.
+Caller: Right, Mark mentioned that. We're getting a second opinion from
+        another contractor on Thursday.
+Agent: Totally understand. Should I follow up after that?
+Caller: Sure, Friday afternoon's good. Mark's usually home then.
+Agent: Friday at 2pm works. Talk then. Thanks Linda.
+Caller: Thanks, bye.
